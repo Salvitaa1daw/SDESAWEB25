@@ -9,12 +9,12 @@ Página web enfocada a ayudar a personas sin conocimientos de informática a sel
 ---
 
 ## Público objetivo
-Usuarios que **necesitan montar** o comprar un ordenador y no saben qué piezas son compatibles entre sí o cuál es la mejor opción para su presupuesto.
+Usuarios que **necesitan montar** o **comprar un ordenador** y no saben qué piezas son compatibles entre sí o cuál es la mejor opción para su presupuesto.
 
 ---
 
 ## Funcionalidades principales
-- Sistema de selección guiada paso a paso
+- Sistema de selección **guiada paso a paso**
 - Filtro automático por compatibilidad
 - Información explicada en lenguaje sencillo
 - Opiniones sobre configuraciones creadas por usuarios
