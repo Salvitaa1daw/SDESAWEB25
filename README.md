@@ -31,6 +31,10 @@ Usuarios que **necesitan montar** o comprar un ordenador y no saben qué piezas 
 
 ### Backend
 - _PHP_
+
+[![PHP](https://www.php.net/images/logos/new-php-logo.svg)](https://www.php.net/)
+
+
 - _MySQL_
 - _Docker Desktop_
 
