@@ -64,6 +64,12 @@ Usuarios que **necesitan montar** o **comprar un ordenador** y no saben qué pie
 
 
 ---
+##Más detalles
+[Ir a detalles sobre el proyecto]{detalle_funcional.md}
+
+
+
+---
 
 ## Ejemplo de código HTML
 ```html
