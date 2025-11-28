@@ -59,6 +59,11 @@ Usuarios que **necesitan montar** o **comprar un ordenador** y no saben qué pie
 5. Consultar opiniones de otros usuarios
 
 ---
+## Logo de la página
+[Logo página](images/Logo.png)
+
+
+---
 
 ## Ejemplo de código HTML
 ```html
